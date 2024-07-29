@@ -1,3 +1,32 @@
 .body{
-background-color: white;
+background-color: rgb(101, 233, 118);
+}
+.cabeçalho{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabeçalho-lista-item{
+    position: relative;
+    right: 30px;
+    display: inline-block;
+    font-size: 200%;
+    text-align: right;
+}
+.Oque{
+background-color:  rgb(101, 233, 118); 
+display: flex;
+padding-bottom: 5%;
+}
+.Causas{
+    background-color:  rgb(101, 233, 118); 
+    display: flex;
+    padding-bottom: 5%;
+}
+.Caracteristicas{
+    background-color:  rgb(101, 233, 118); 
+    display: flex;
+    padding-bottom: 5%;
 }
